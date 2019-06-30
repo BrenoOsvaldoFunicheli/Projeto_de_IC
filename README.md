@@ -1,2 +1,2 @@
 # Projeto_de_IC
-Informações pertinentes ao mapeamento de uma plataforma de apoio acadêmico para o auxílio de orientando no processo de desenvolvido de um projeto acadêmico, tem como foco não somente ajudar orientandos regulares como fomentar o auxílio a alguma das partes(Orientador ou Orientado) no caso de necessidade especial.
+Information pertinent to the mapping of an academic support platform for the promotion of guidance in the process of developing an academic project, focuses not only on helping regular orientands how to foster the promotion of any of the (advisor or orientated) in the case of special Okoh.
